@@ -37,7 +37,7 @@ Evaluate repository quality and credibility
 Deploy a token officially tied to the repository
 Ensure only the rightful GitHub author can claim trading fees
 Fees are not assigned to a wallet at deployment. They are claimed by the verified repository owner.
-------------------------------------------------------------------------------------------------------------
+
 How Claiming Works
 ------------------------------------------------------------------------------------------------------------
 Once a token is deployed for a repository:
