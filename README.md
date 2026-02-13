@@ -1,4 +1,4 @@
-EarnGit
+# EarnGit
 <img width="1500" height="500" alt="Untitled design (43)" src="https://github.com/user-attachments/assets/cd99aad6-fd2b-4d19-bc13-53acf200b286" />
 
 
