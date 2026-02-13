@@ -1,5 +1,6 @@
 # EarnGit
-<img width="575" height="290" alt="image" src="https://github.com/user-attachments/assets/c4e7d71c-c3c8-4a76-bcaf-0d14c9275054" />
+<img width="1500" height="500" alt="arq" src="https://github.com/user-attachments/assets/727c1bff-2bb5-4ba7-b09d-4a0738fdaaf2" />
+
 >
 
 
