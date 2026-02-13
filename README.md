@@ -81,11 +81,11 @@ transparent fees
 While adding what they lack:
 
 
-
+------------------------------------------------------------------------------------------------------------
 ⚠️ Contract address will be updated on the website shortly.
 Do not buy fakes or scams.
 The only valid contract address will be published officially.
-
+------------------------------------------------------------------------------------------------------------
 Status
 EarnGit is currently live and evolving.
 
