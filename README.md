@@ -11,6 +11,7 @@ EarnGit is a token launchpad that ensures trading fees are claimed by the rightf
 Only authors can claim.
 No impersonation.
 No misattributed rewards.
+------------------------------------------------------------------------------------------------------------
 
 Problem
 Over the past weeks, there has been a surge of GitHub repositories launching tokens on platforms like pump.fun and bags.fm.
